@@ -1,0 +1,14 @@
+C:\Users\Mandla\Desktop\ERP_BE\ERP\ERP\bin\Debug\netcoreapp2.2\ERP.deps.json
+C:\Users\Mandla\Desktop\ERP_BE\ERP\ERP\bin\Debug\netcoreapp2.2\ERP.runtimeconfig.json
+C:\Users\Mandla\Desktop\ERP_BE\ERP\ERP\bin\Debug\netcoreapp2.2\ERP.runtimeconfig.dev.json
+C:\Users\Mandla\Desktop\ERP_BE\ERP\ERP\bin\Debug\netcoreapp2.2\ERP.dll
+C:\Users\Mandla\Desktop\ERP_BE\ERP\ERP\bin\Debug\netcoreapp2.2\ERP.pdb
+C:\Users\Mandla\Desktop\ERP_BE\ERP\ERP\obj\Debug\netcoreapp2.2\ERP.csprojAssemblyReference.cache
+C:\Users\Mandla\Desktop\ERP_BE\ERP\ERP\obj\Debug\netcoreapp2.2\ERP.csproj.CoreCompileInputs.cache
+C:\Users\Mandla\Desktop\ERP_BE\ERP\ERP\obj\Debug\netcoreapp2.2\ERP.RazorAssemblyInfo.cache
+C:\Users\Mandla\Desktop\ERP_BE\ERP\ERP\obj\Debug\netcoreapp2.2\ERP.RazorAssemblyInfo.cs
+C:\Users\Mandla\Desktop\ERP_BE\ERP\ERP\obj\Debug\netcoreapp2.2\ERP.AssemblyInfoInputs.cache
+C:\Users\Mandla\Desktop\ERP_BE\ERP\ERP\obj\Debug\netcoreapp2.2\ERP.AssemblyInfo.cs
+C:\Users\Mandla\Desktop\ERP_BE\ERP\ERP\obj\Debug\netcoreapp2.2\ERP.RazorTargetAssemblyInfo.cache
+C:\Users\Mandla\Desktop\ERP_BE\ERP\ERP\obj\Debug\netcoreapp2.2\ERP.dll
+C:\Users\Mandla\Desktop\ERP_BE\ERP\ERP\obj\Debug\netcoreapp2.2\ERP.pdb
